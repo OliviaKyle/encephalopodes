@@ -1,6 +1,124 @@
 # Crash course in brain stuff
 
+## Action potentials
+
+![ionic_polarisation_of_membrane](/images/ionic_polarisation_of_membrane.PNG)
+
+
+![action_potential_graph](/images/action_potential_graph.PNG)
+
+
+![synapse_diagram](/images/synapse_diagram.PNG)
+
+
+![synaptic_transmission](/images/Synaptic_transmission.PNG)
+
+
+## Anatomical perspective terminology
+
+The nervous system is divided into two categories: central and peripheral. The peripheral nervous system is composed of all sensory receptors--the primary sensors of retinal cells in the eyes, olfactory cells in the nose, gustatory cells in the tongue, mechanoreceptors in the skin, and hair cells in the cochlear of the ear--and the nerves that deliver their information to the central nervous system: the brain and brainstem. 
+
+When describing the direction of information flow in a 3-dimensional system, the normal terms of up and down, front and back lack clarity. Anatomical descriptions are then given from the reference of a person in "standard anatomical position"; standing upright facing forwards with both feet and the palms of both hands facing the observer. In this position, left and right are inferred to be from the perspective of the person standing, and are hence reversed from that of the observer. Other position descriptions are given below from a point of reference in the center of the body:
+
+Above -- Superior / Rostral / Cranial
+
+Below -- Inferior / Caudal
+
+Behind -- Posterior / Dorsal
+
+Infront -- Anterior / Ventral
+
+Towards the midline -- Medial
+
+Away from the midline -- Lateral
+
+Near -- Proximal
+
+Far -- Distal
+
+![anatomical_directions](/images/anatomical_directions.png)
+
+Combining these terms to locate a brain structure in comparison to a known location allows easy navigation of the space, e.g. "dorsolateral" indicates a position behind and towards the outer edge.
+
+As the body tends to be viewed in 2-dimensional slices, further terminology is needed to describe the plane on which the section is taken. The four main planes are the:
+
+
+
+![anatomical_planes](/images/anatomical_planes.png)
+
+## Brain Anatomy
+
+Brain tissue is composed of excitable neurons and surrounding microglia, cells which support neuronal structure and function. The outer "surface" of the brain is called the cortex (grey-matter), which overlies the large body of white-matter. The terms grey- or white- matter refer to the concentration of neuronal cell bodies vs axons; white-matter is predominantly axons, along which action-potentials travel from their incipience at the cell body in the cortex.
+
+ The brain is organised into two fundamentally identical hemispheres; the left and right (from an anatomical perspective). Each hemisphere consists of the large cerebrum and smaller cerebellum, which looks like a tiny brain attached at the back. Each hemisphere of the cerebrum is further refined into functional lobes demarcated by easily recognizable "wrinkles" on it's surface. These wrinkles form the same pattern on every (normal) brain, where the protruding portion of the wrinkle is called a gyrus (plural gyri), and the sunken area is called a sulcus (plural sulci).
+
+In the image below, the FRONTAL LOBE is the anterior portion of the brain, consisting of everything from the frontal pole to the line drawn by the central sulcus. The PARIETAL LOBE is the portion posterior to the frontal lobe, enclosed on three sides by the central sulcus, the lateral fissure, and the sulcus posterior to the angular gyrus. The TEMPORAL LOBE is directly inferior to the parietal, running from the lateral fissure to the inferior temporal gyrus, and extending posteriorly to the preoccipital notch. The OCCIPITAL LOBE is then comprised of the remaining posterior portion of the cerebrum.
+
+![exterior_cerebrum](/images/exterior_cerebrum.PNG)
+
+Where the edge of a lobe would end at the boundary of the cerebrum from the perspective of this image, imagine them continuing internally along the surface as it curves inwards medially. Viewing a brain sectioned sagitally (along the middle groove between hemispheres) would then look like the image below, where you can imagine each lobe continuing in towards the corpus callosum--the structure joining both hemispheres.
+
+![interior_cerebrum](/images/interior_cerebrum.PNG)
+
+A generalised version of the important landmarks of the lateral cerebrum is shown below.
+
+Acronyms:
+
+CS = Central Sulcus
+
+PoCS = Postcentral Gyrus
+
+PrCS = Precentral Gyrus
+
+SFS = Superior Frontal Sulcus
+
+IFS = Inferior Frontal Sulcus
+
+IPS = Intraparietal Sulcus
+
+LF = Lateral Fissure
+
+ITS = Inferior Temporal Sulcus
+
+STS = Superior Temporal Sulcus
+
+X = Transverse Temporal Gyrus (Heschl's gyrus)
+
+(Delta) = Triangular part of the Inferior Frontal Gyrus
+
+![landmarks](/images/landmarks.PNG)
+
+These should cover much of the location terminology used in related research. 
+
+## Functional Areas
+
+Being able to refer to specific areas of the brain is important as all functions occur discreetly, in fixed locations. All afferent sensory information is first delivered from the peripheral nervous system
+
+
+![major_functional_areas_exterior](/images/major_functional_areas_exterior.PNG)
+
+
+![major_functional_areas_interior](/images/major_functional_areas_interior.PNG)
+
+
+![homunculous](/images/homunculus.PNG)
+
+
+## Functional Pathways
+
+
+![conscious_movement](/images/conscious_movement.PNG)
+
+
+![descending_motor_pathways](/images/descending_motor_pathways.PNG)
+
+
+
 ## EEG
+
+
+![electrode_layout](/images/electrode_10_20_placement.png)
+
 
 And then i ran this bit of code
 
